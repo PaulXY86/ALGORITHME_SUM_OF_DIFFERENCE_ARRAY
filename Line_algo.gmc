@@ -31,11 +31,11 @@ BEGIN
         for(int j=0;j<set1.length;j++){
             IF (set2[j] === set1[i]) THEN
                 differenceCounter++
-                END_IF
+            END_IF
         IF (differenceCounter == 0) THEN
         END_IF
     END 
-    
+
         }
     }
 
